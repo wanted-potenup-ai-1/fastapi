@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 800
+    },
+    {
+        "id": 3,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 4,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 5,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 6,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 7,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 8,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 9,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    },
+    {
+        "id": 10,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "price": 200.0
+    }
+]
